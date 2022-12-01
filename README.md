@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## practice
+[ 新・日本一わかりやすいReact入門](https://www.youtube.com/watch?v=Ym4If5W9SS0)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
